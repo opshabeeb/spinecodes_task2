@@ -1,0 +1,42 @@
+
+.list-container {
+    margin-top: 50px;
+    padding: 20px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .user-details {
+    text-align: left;
+  }
+  
+  .user-details h2 {
+    margin-bottom: 20px;
+  }
+  
+  .user-details p {
+    margin: 10px 0;
+  }
+  
+  .btn-update,
+  .btn-back {
+    display: inline-block;
+    margin: 5px 10px;
+    padding: 10px 15px;
+    color: #fff;
+    background-color: #007bff; /* Bootstrap Primary color */
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  .btn-update:hover,
+  .btn-back:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+  }
+  
